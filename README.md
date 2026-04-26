@@ -91,9 +91,7 @@ else:
 
 Instale o Python (versão 3.x)
 Clone este repositório:
-git clone https://github.com/Paulocgarcia/Game_Python.git
-Execute o script:
-python nome_do_arquivo.py
+
 
 🎯 Aprendizados
 
