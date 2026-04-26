@@ -87,10 +87,11 @@ elif (
 else:
     print("Jogador 2 venceu!")
     
-🚀 Como Executar
+ ## 🚀 Como Executar
 
-https://colab.research.google.com/github/Paulocgarcia/Game_Python/blob/main/Jogo_Pedra_Papel_Tesoura.ipynb
+Execute o projeto diretamente no navegador:
 
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulocgarcia/Game_Python/blob/main/Jogo_Pedra_Papel_Tesoura.ipynb)
 
 🎯 Aprendizados
 
