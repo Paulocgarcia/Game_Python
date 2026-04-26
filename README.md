@@ -89,8 +89,7 @@ else:
     
 🚀 Como Executar
 
-Instale o Python (versão 3.x)
-Clone este repositório:
+https://colab.research.google.com/github/Paulocgarcia/Game_Python/blob/main/Jogo_Pedra_Papel_Tesoura.ipynb
 
 
 🎯 Aprendizados
